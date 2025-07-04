@@ -201,7 +201,7 @@ http://kibana.local
 🎓 MSc in IT | 💼 DevOps & Cloud Enthusiast | 🧩 Microservices Architect
 
 - 📧 Email: [ashanp@gmail.com](mailto:ashanp@gmail.com)
-- 🔗 LinkedIn: [[linkedin.com/in/ashanperera](https://www.linkedin.com/in/ashanperera)](https://www.linkedin.com/in/ashan-malinda-perera/)
+- 🔗 LinkedIn: [linkedin.com/in/ashanperera](https://www.linkedin.com/in/ashanperera)](https://www.linkedin.com/in/ashan-malinda-perera/)
 - 💻 GitHub: [github.com/ashan-perera](https://github.com/ashan-perera)
 ---
 > ⚡ Passionate about Kubernetes, ECK, cloud-native systems, and automation at scale.
